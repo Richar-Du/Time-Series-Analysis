@@ -11,8 +11,8 @@
 
   全书某一章节运行结果：
 
-  ![](BOOK.png)
+  ![](BOOK.PNG)
 
   Sbrana 课程代码复现的结果:
 
-  ![](State Space.png)
+  ![](State Space.PNG)
